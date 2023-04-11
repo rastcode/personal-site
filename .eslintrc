@@ -1,15 +1,14 @@
 {
   "extends": "airbnb",
-  "parser": "babel-eslint",
+  "parser":  "@typescript-eslint/parser",
   "env": {
     "browser": true,
     "node": true,
     "jest": true
   },
+
   "rules": {
-    "linebreak-style": 0,
-    "global-require": 0,
-    "eslint linebreak-style": [0, "error", "windows"],
+
     "quotes": [2, "single", "avoid-escape"],
     "jsx-a11y/anchor-is-valid": ["error", {
       "components": ["Link"],
@@ -40,6 +39,6 @@
   },
   "plugins": [
     "react"
-  ],
-  "extends": ["eslint:recommended", "plugin:react/recommended"]
+  ]
+
 }
