@@ -1,86 +1,86 @@
 const courses = [
   {
-    title: 'Convex Optimization',
+    title: 'Advance Programming',
     number: 'EE 364a',
     link: 'http://stanford.edu/class/ee364a/',
     university: 'Stanford',
   },
   {
-    title: 'Machine Learning',
+    title: 'Network Installation & Commissioning',
     number: 'CS 229',
     link: 'http://cs229.stanford.edu/',
     university: 'Stanford',
   },
   {
-    title: 'Convolutional Neural Networks for Visual Recognition',
+    title: 'Computer architecture',
     number: 'CS 231n',
     link: 'http://cs231n.stanford.edu/',
     university: 'Stanford',
   },
   {
-    title: 'Numerical Linear Algebra',
+    title: 'Game development',
     number: 'CME 302',
     link:
       'http://scpd.stanford.edu/search/publicCourseSearchDetails.do;jsessionid=561188A06434D7D97953C4706DE12831?method=load&courseId=11685',
     university: 'Stanford',
   },
   {
-    title: 'Numerical Optimization',
+    title: 'Designing Algorithem',
     number: 'CME 304',
     link: 'http://web.stanford.edu/class/cme304/',
     university: 'Stanford',
   },
   {
-    title: 'Discrete Mathematics and Algorithms',
+    title: 'Internet Enginieering',
     number: 'CME 305',
     link: 'http://stanford.edu/~rezab/discrete/',
     university: 'Stanford',
   },
   {
-    title: 'PDE’s of Applied Mathematics',
+    title: 'Mobile Programming',
     number: 'CME 303',
     link: 'http://web.stanford.edu/class/math220/index.html',
     university: 'Stanford',
   },
   {
-    title: 'Introduction to Linear Dynamical Systems',
+    title: 'Systematicc programming',
     number: 'EE 263',
     link: 'http://ee263.stanford.edu/',
     university: 'Stanford',
   },
   {
-    title: 'Introduction to Statistical Signal Processing',
+    title: 'Information Security',
     number: 'EE 278B',
     link: 'http://web.stanford.edu/class/ee278/',
     university: 'Stanford',
   },
   {
-    title: 'Spacecraft Design',
+    title: 'Articial Intelligence',
     number: 'AA 236A',
     link: '',
     university: 'Stanford',
   },
   {
-    title: 'Advanced Programming',
+    title: 'Internet of things',
     number: 'CME 212',
     link: '',
     university: 'Stanford',
   },
   {
-    title: 'Design Theory and Methodology',
+    title: 'Software Development',
     number: 'MAE 397',
     link:
       'https://web.stanford.edu/group/designx_lab/cgi-bin/mainwiki/index.php/ME397_Design_Theory_%26_Methodology_Seminar',
     university: 'Stanford',
   },
   {
-    title: 'Software Engineering Concepts',
+    title: 'Database Laboratory',
     number: 'CSE 442',
     link: '',
     university: 'Buffalo',
   },
   {
-    title: 'Hardware/Software Integrated System Design',
+    title: 'Statistics and probabilities',
     number: 'CSE 453',
     link: '',
     university: 'Buffalo',
@@ -92,53 +92,12 @@ const courses = [
     university: 'Buffalo',
   },
   {
-    title: 'Introduction to Digital Signal Processing',
+    title: 'User-Interface Design',
     number: 'EE 516',
     link: '',
     university: 'Buffalo',
   },
-  {
-    title: 'Computer Vision and Image Processing',
-    number: 'CSE 573',
-    link: 'http://cubs.buffalo.edu/~inwogu/teaching/Coursepage573_fa14/',
-    university: 'Buffalo',
-  },
-  {
-    title: 'Realtime Embedded Systems',
-    number: 'CSE 321',
-    link: '',
-    university: 'Buffalo',
-  },
-  {
-    title: 'Computer Architecture',
-    number: 'CSE 590',
-    link: 'http://www.cse.buffalo.edu/~stevko/courses/cse490/spring11/',
-    university: 'Buffalo',
-  },
-  {
-    title: 'Small Data',
-    number: 'MS&E 226',
-    link: 'http://web.stanford.edu/class/msande226/',
-    university: 'Stanford',
-  },
-  {
-    title: 'Stochastic Control',
-    number: 'EE 266',
-    link: 'http://ee266.stanford.edu/',
-    university: 'Stanford',
-  },
-  {
-    title: 'Simulation',
-    number: 'MS&E 223',
-    link: 'http://web.stanford.edu/class/msande223/handout.htm',
-    university: 'Stanford',
-  },
-  {
-    title: 'Deep Learning for Natural Language Processing',
-    number: 'CS 224d',
-    link: 'http://cs224d.stanford.edu/',
-    university: 'Stanford',
-  },
+  
 ];
 
 export default courses;

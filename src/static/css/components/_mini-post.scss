@@ -7,6 +7,9 @@
 /* Mini Post */
 .cell-container {
   position: relative;
+  
+ 
+  
 
   .description {
     position: absolute;
@@ -46,14 +49,18 @@
   background: _palette(bg);
   border: solid 1px _palette(border);
   margin: 0 0 _size(element-margin);
+  display: flex;
+  align-items: center;
 
   .image {
     overflow: hidden;
-    width: 100%;
+    width:45%;
+    
 
     img {
       @include vendor( 'transition', 'transform #{_duration(transition)} ease-out');
       width: 100%;
+     
     }
 
     &:hover {

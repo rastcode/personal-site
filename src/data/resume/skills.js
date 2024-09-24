@@ -13,6 +13,11 @@ const skills = [
     competency: 4,
     category: ['Web Development', 'Javascript'],
   },
+  {
+    title: 'Next.js',
+    competency: 4,
+    category: ['Web Development', 'Javascript'],
+  },
 
   {
     title: 'Amazon Web Services',
@@ -26,11 +31,6 @@ const skills = [
     category: ['Web Development', 'Databases'],
   },
 
-  {
-    title: 'Express.JS',
-    competency: 2,
-    category: ['Web Development', 'Javascript'],
-  },
 
   {
     title: 'Git/Mercurial',
@@ -49,11 +49,7 @@ const skills = [
     competency: 3,
     category: ['Data Science', 'Python'],
   },
-  {
-    title: 'Typescript',
-    competency: 3,
-    category: ['Web Development', 'Languages', 'Javascript'],
-  },
+  
   {
     title: 'HTML + SASS/SCSS/CSS',
     competency: 4.5,
