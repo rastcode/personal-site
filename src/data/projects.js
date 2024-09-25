@@ -16,7 +16,7 @@ const data = [
   },
   {
     title: "Calculator",
-    // subtitle: "A kickstarter funded potato powered weather balloon.",
+    
     link: "https://postimg.cc/ZCJWytD4",
     image: "/images/projects/colculator.jpg",
     date: "2015-06-28",

@@ -2,13 +2,13 @@ const degrees = [
   {
     school: "Azad University",
     degree: "Bachelor's Degree in Softwar Engineering",
-    link: "https://stanford.edu",
+    link: "https://iau.ir/en",
     year: 2023,
   },
   {
     school: "Azad University",
     degree: "Associate's Degree in Civil engineering",
-    link: "https://buffalo.edu",
+    link: "https://iau.ir/en",
     year: 2021,
   },
   {
