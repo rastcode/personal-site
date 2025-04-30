@@ -1,14 +1,34 @@
-# Intro
+# Professional Summary
 
-As a passionate Front-End Developer with a Bachelor's degree in Software Engineering from Azad University, Iran, I am eager to pursue a Master's degree in Computer Science, focusing on the integration of advanced technologies and systems that drive the digital world.
+Motivated Front-End Developer with a Bachelor's degree in Software Engineering from Azad University, Iran, and extensive experience in developing responsive web and mobile applications using React.js, Next.js, Flutter, and Python (Django, NumPy, Pandas). Passionate about building user-centric, secure, and scalable digital solutions. Currently seeking admission to the Master's program in Computer Science at the University of Aldo Moro Bari, with the goal of advancing my expertise in Artificial Intelligence, Data Science, and Cybersecurity and contributing to academic and technological innovation.
 
-With expertise in front-end development using React.js, Next.js, and Flutter, alongside a solid foundation in Python and its frameworks such as Django, NumPy, and Pandas, I have successfully built dynamic web applications and intuitive user interfaces. My passion for creating innovative solutions extends to exploring how emerging technologies like Artificial Intelligence and Security Engineering are transforming the way we interact with and secure digital systems.
+# Academic Objective
 
-The interdisciplinary nature of Computer Science, encompassing fields such as software development, artificial intelligence, and cybersecurity, excites me. I am particularly motivated to deepen my knowledge in designing and developing systems that are not only innovative but also secure, robust, and efficient in addressing the challenges of an increasingly interconnected world.
-
-This Master's program presents a perfect opportunity to build on my existing skills while diving deeper into areas such as AI, data science, and cybersecurity. I am confident that the comprehensive curriculum, combined with my passion for technology and problem-solving, will allow me to contribute meaningfully to the field of Computer Science and its various applications.
+I aspire to pursue a Master's degree in Computer Science to deepen my knowledge in Artificial Intelligence and Cybersecurity. My goal is to bridge the gap between front-end development and intelligent systems through both research and hands-on application, contributing to the advancement of innovative, secure, and human-centered technologies.
 
 <!-- # Currently -->
+
+# Technical Skills
+
+Languages & Frameworks: JavaScript (ES6+), Dart, Python, React.js, Next.js, Flutter, Django
+
+Web Development: HTML5, CSS3, Bootstrap, REST APIs
+
+Tools & Platforms: Git, GitHub, VS Code, Netlify, Firebase
+
+Data Handling: Pandas, NumPy
+
+# Soft Skills
+
+Team Collaboration
+
+Problem Solving
+
+Agile Development
+
+Communication
+
+Time Management
 
 # I like
 
